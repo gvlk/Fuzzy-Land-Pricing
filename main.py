@@ -1,4 +1,5 @@
 # Guilherme Azambuja
+# https://github.com/gvlk/fuzzy-land-pricing
 
 """
 This project aims to estimate land prices using fuzzy logic. By providing information such as the area of the land,

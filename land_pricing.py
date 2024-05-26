@@ -1,4 +1,5 @@
 # Guilherme Azambuja
+# https://github.com/gvlk/fuzzy-land-pricing
 
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
