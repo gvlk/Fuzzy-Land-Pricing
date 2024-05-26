@@ -7,7 +7,7 @@
 </div>
 
 ## Overview
-The Land Pricing Project is a Python-based system that utilizes fuzzy logic to estimate land prices. By considering factors such as land area, distance from the avenue, and distance from the beach, the system generates estimated price ranges. Users can input land attributes to receive estimated prices and compare them to real prices for validation.
+The Land Pricing Project is a Python-based system that utilizes fuzzy logic to estimate land prices. By considering factors such as land area, distance from the avenue, and distance from the beach, the system generates a estimated price. Users can input land attributes to receive estimated prices and compare them to real prices for validation.
 
 ## Installation
 
