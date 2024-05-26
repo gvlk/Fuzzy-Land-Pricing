@@ -1,0 +1,15 @@
+Avenida
+
+bolaxa 2,42
+stella maris 4,57
+parque guanabara 1,80
+senandes 5,35
+princesa do sul 2,93			
+
+Praia
+
+bolaxa 3,89
+stella maris 1,20
+parque guanabara 1,46
+senandes 6,90	
+princesa do sul 1,39		
